@@ -1,2 +1,2 @@
 # DecayCompute
-Decay compute is a C# class to compute nuclear decay calculation 
+Decay compute is a C# class to compute nuclear decay 
